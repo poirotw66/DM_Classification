@@ -1,10 +1,7 @@
-# DM_Classification
+<!-- # DM_Classification
 
 Project 2
 Classification
-
-
-
 
 
 摘要0
@@ -60,4 +57,8 @@ Data2
 * data/train_label.csv:訓練資料的標籤。
 * data/val_unlabel.csv:測試資料的輸入。
 * data/val_label.cdv:測試資料的標籤。
-* Project2_Report_N96094196.pdf:報告。
+* Project2_Report_N96094196.pdf:報告。 -->
+<img src="./Project2_Report/Project2_Report_page-0001.jpg"/>
+<img src="./Project2_Report/Project2_Report_page-0002.jpg"/>
+<img src="./Project2_Report/Project2_Report_page-0003.jpg"/>
+<img src="./Project2_Report/Project2_Report_page-0004.jpg"/>

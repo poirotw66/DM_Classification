@@ -62,3 +62,5 @@ Data2
 <img src="./Project2_Report/Project2_Report_page-0002.jpg"/>
 <img src="./Project2_Report/Project2_Report_page-0003.jpg"/>
 <img src="./Project2_Report/Project2_Report_page-0004.jpg"/>
+<img src="./Project2_Report/Project2_Report_page-0005.jpg"/>
+<img src="./Project2_Report/Project2_Report_page-0006.jpg"/>
